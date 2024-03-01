@@ -18,7 +18,7 @@ pip install pandas requests beautifulsoup4
 
 Чтобы запустить скраппер, просто запустите файл main.py с помощью Python:
 ```bash
-python news_parser.py
+python main.py
 ```
 По умолчанию парсер будет извлекать новости с первых 50 страниц. Вы можете изменить это, изменив аргумент функции news_scrapper в конце файла.
 
